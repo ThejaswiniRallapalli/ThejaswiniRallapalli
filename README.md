@@ -24,6 +24,7 @@
 
 ## 🔗 Connect With Me  
 📧 **Email:** thejaswinir473@gmail.com
+
 🔗 **LinkedIn:**  
 📁 **Portfolio:** [Your Portfolio](your_link)  
 💬 **Open to discussions on data analytics & engineering!**  
