@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thejaswini!  Add commentMore actions
+# 👋 Hi, I'm Thejaswini!  
 
 ## 🚀 About Me  
 💡 **Passionate about Data Analytics & Cloud Technologies**  
