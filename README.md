@@ -23,8 +23,8 @@
 🧩 **[SQL Data Pipeline](your_project_link)** – Optimizing data storage & transformations  
 
 ## 🔗 Connect With Me  
-📧 **Email:** navathayerram2002@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/navatha-yerram-993aa349  
+📧 **Email:** thejaswinir473@gmail.com
+🔗 **LinkedIn:**  
 📁 **Portfolio:** [Your Portfolio](your_link)  
 💬 **Open to discussions on data analytics & engineering!**  
 
